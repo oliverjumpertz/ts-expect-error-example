@@ -1,9 +1,4 @@
-# ts-boilerplate
-`ts-boilerplate` a simple boiler plate / template project that you can use to bootstrap your next TypeScript project.
-It comes with TypeScript, Rollup, Jest, Prettier, Husky, lint-staged and ESLint pre-configured.
+# ts-expect-error-example
+This example project shows the usage of // @ts-expect-error with a very simple use case.
 
-# Getting started
-Clone this repository and then just `rm -rf .git && git init` to start with a fresh git history.
-
-Please don't forget to fill in all necessary information within your `package.json`.
-You will, at least, want to set `name`, `description`, and `author`.
+It's the repository for my blog post about [said TS comment](https://dev.to/oliverjumpertz/making-good-use-of-ts-expect-error-in-typescript-1f41)
